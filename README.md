@@ -1,7 +1,7 @@
 - Hi, I’m @jamesmyose
 - I'm studying Computer Science and Mathematics at Kansas State University
 - My website is jamesmyose.com
-- You can contact me at jmyose@ksu.edu
+- You can contact me at jmyose@live.com
 <!---
 - I’m interested in ...
 - I’m currently learning ...
